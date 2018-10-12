@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node --inspect --experimental-modules ."
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.3",
+    "express-useragent": "^1.0.12"
+  }
+}
